@@ -1,7 +1,7 @@
 # Missing Features
 - Unit tests
 - Deal with more complex cases
-- Changing some values that is hardcoded
+- Changing some values that are hardcoded
 
 # Getting Started with Create React App
 
